@@ -3,7 +3,7 @@
   "plugins": ["prettier"],
   "parser": "babel-eslint",
   "parserOptions": {
-    "ecmaVersion":    ,
+    "ecmaVersion":   2016 ,
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
